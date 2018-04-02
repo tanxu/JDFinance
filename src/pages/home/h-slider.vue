@@ -37,7 +37,7 @@
         ],
         enters: [
           {
-            href: 'Index',
+            href: 'Download',
             img: '//img12.360buyimg.com/jrpmobile/jfs/t3991/64/2521945388/12110/93c0139/58d1e462Ncf294123.png?width=132&height=132',
             title: '优惠券'
           },
